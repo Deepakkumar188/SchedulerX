@@ -1,4 +1,4 @@
-# ⚡ CPU Scheduling Algorithm Simulator & Visualizer
+# ⚡ SchedulerX & CPU Scheduling Algorithm & Visualizer
 
 A full-stack web application for simulating and visualizing core Operating System process scheduling algorithms in real-time. Built with **Python (FastAPI)** for the algorithmic engine and **React (Vite)** with modern styling for interactive Gantt chart visualization.
 
@@ -126,6 +126,3 @@ $$\text{Average Waiting Time} = \frac{\sum \text{WT}}{N}, \quad \text{Average Tu
 
 ---
 
-## 📜 License
-
-MIT License. Designed for education and portfolio showcase.
